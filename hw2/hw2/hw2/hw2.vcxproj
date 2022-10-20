@@ -127,7 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\source\3_17.c" />
+    <ClCompile Include="..\..\source\3_17.c">
+      <AdditionalIncludeDirectories Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">D:\c_code\hw2\include</AdditionalIncludeDirectories>
+    </ClCompile>
     <ClCompile Include="..\..\source\3_18.c" />
     <ClCompile Include="..\..\source\3_19.c" />
     <ClCompile Include="..\..\source\3_20.c" />

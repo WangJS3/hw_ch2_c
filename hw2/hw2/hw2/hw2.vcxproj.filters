@@ -11,9 +11,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\source\3_17.c">
-      <Filter>source</Filter>
-    </ClCompile>
     <ClCompile Include="..\..\source\3_18.c">
       <Filter>source</Filter>
     </ClCompile>
@@ -39,6 +36,9 @@
       <Filter>source</Filter>
     </ClCompile>
     <ClCompile Include="..\..\source\4_31.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\3_17.c">
       <Filter>source</Filter>
     </ClCompile>
   </ItemGroup>

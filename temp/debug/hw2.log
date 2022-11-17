@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  4_31.c
+3_18.obj : error LNK2005: _main 已在 3_17.obj 中定義過了
+3_19.obj : error LNK2005: _main 已在 3_17.obj 中定義過了
+3_20.obj : error LNK2005: _main 已在 3_17.obj 中定義過了
+4_16.obj : error LNK2005: _main 已在 3_17.obj 中定義過了
+4_28.obj : error LNK2005: _main 已在 3_17.obj 中定義過了
+4_31.obj : error LNK2005: _main 已在 3_17.obj 中定義過了
+..\..\temp\debug\hw2.exe : fatal error LNK1169: 找到有一或多個已定義的符號
